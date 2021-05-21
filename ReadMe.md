@@ -1,6 +1,6 @@
 # Sample Async Exercises
 
-## To Test Async understanding try Word Count
+## To Test Async understanding try Main.js
 Write a function that chains together the helpers
 
 
