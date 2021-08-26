@@ -2,10 +2,10 @@
 
 ## To Test Async understanding try Main.js
 Write a function that chains together the helpers. Using only the helper functions have the function output the following. 
-                 > Generate a random number
-After one second > 'waited one second'
-After one second > 'waited one second'
-After one second > 'waited one second'
+                 > Generate a random number. 
+After one second > 'waited one second'. 
+After one second > 'waited one second'. 
+After one second > 'waited one second'. 
 Then write the random number to a file on the hard drive. 
 
 
